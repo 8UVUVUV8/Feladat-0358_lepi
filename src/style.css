@@ -6,17 +6,35 @@ p{
     margin: 0;
     padding: 0;
 }
-#side{
+#aSide{
+    margin-bottom: 30px;
+    max-width: 50%;
+    
+}
+
+#bSide{
+    margin-bottom: 30px;
+    max-width: 50%;
+    
+}
+
+#cSide{
     margin-bottom: 30px;
     max-width: 50%;
     
 }
 .container{
+    max-width: 1000px;
+    margin: 0, auto;
+}
+
+.inputcontainer{
     background-image: url(./pics/Parallelepiped.svg.png);
     background-repeat: no-repeat;
     margin: 0, auto;
     display:block;
     max-width: 640px;
+    height: 500px;
     
 }
 #inputs{
