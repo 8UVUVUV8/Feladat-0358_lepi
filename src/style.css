@@ -1,0 +1,24 @@
+#instructions{
+    font-size: 50px;
+    font-style: oblique;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+#side{
+    margin-bottom: 30px;
+    max-width: 50%;
+    
+}
+.container{
+    background-image: url(./pics/Parallelepiped.svg.png);
+    background-repeat: no-repeat;
+    margin: 0, auto;
+    display:block;
+    max-width: 640px;
+    margin-top: 100px;
+}
+#inputs{
+    padding-bottom: 20px;
+}
