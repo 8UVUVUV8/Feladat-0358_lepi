@@ -17,8 +17,19 @@ p{
     margin: 0, auto;
     display:block;
     max-width: 640px;
-    margin-top: 100px;
+    
 }
 #inputs{
     padding-bottom: 20px;
+}
+#calcbutton{
+    float: right;
+}
+#calcbutton::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+#res{
+    font-size: 30px;
 }
