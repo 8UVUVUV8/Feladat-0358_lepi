@@ -1,3 +1,13 @@
+/*
+File: app.js
+Author: Szekeres András
+Copyright: 2023, Szekeres András
+Group: Szoft I-2 N
+Date: 2023-03-24
+Github: https://github.com/8UVUVUV8/
+Licenc: GNU GPL
+*/
+
 var aSide = document.querySelector('#aSide');
 var bSide = document.querySelector('#bSide');
 var cSide = document.querySelector('#cSide');

@@ -1,3 +1,13 @@
+/*
+File: style.css
+Author: Szekeres András
+Copyright: 2023, Szekeres András
+Group: Szoft I-2 N
+Date: 2023-03-024
+Github: https://github.com/8UVUVUV8/
+Licenc: GNU GPL
+*/
+
 #instructions{
     font-size: 50px;
     font-style: oblique;
@@ -50,4 +60,9 @@ p{
 }
 #res{
     font-size: 30px;
+}
+footer{
+    background-color: aqua;
+    display: inline-block;
+    padding: 10px;
 }
